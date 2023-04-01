@@ -1,0 +1,201 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+
+
+}
+main{
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   margin: auto;
+   height: 100vh;
+}
+.container{
+
+   padding: 25px;
+   background: #d2c398;
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   top: 0;
+   right: 0;
+   margin: auto;
+   width: 40%;
+   height: 100%;
+
+}
+
+.cuadro1{
+   position: absolute;
+   width: 110px;
+   height:279px;
+   border: 1px solid black ;
+
+}
+.cuadro2{
+   position: absolute;
+   width: 110px;
+   height: 279px;
+   left: 143px;
+   border: 1px solid black ;
+}
+.cuadro3{
+   
+   position: absolute;
+   width: 228px;
+   height: 279px;
+   bottom: 20px;
+   border: 1px solid black ;
+}
+.cuadro4{
+
+   position: absolute;
+   width: 117px;
+   height:415px;
+   right: 10px;
+
+}
+
+.cuadro5{
+
+   position: absolute;
+   width: 117px;
+   height:415px;
+
+   right: 134px;
+
+
+}
+.cuadroimagen1{
+   position: absolute;
+   width: 241px;
+   height: 70px;
+   bottom: 20px;
+   right: 10px;
+   border: 1px solid black ;
+}
+
+.cuadroimagen2{
+   position: absolute;
+   width: 241px;
+   height: 70px;
+   bottom: 90px;
+   right: 10px;
+   border: 1px solid black ;
+}
+.zona1{
+    position: relative;
+    width: 110px;
+    height: 93px;
+    background-image: url(liston.png);
+    background-repeat: no-repeat;
+    background-size: 91%;
+    background-position: center;
+}
+.zona2{
+    position: relative;
+    width: 110px;
+    height: 80px;
+    font-size: 8px;
+    text-align: center;
+}
+
+.zona3{
+    position: relative;
+    width: 110px;
+    font-size: 10px;
+    height: 106px;
+    text-align: center;
+}
+.zona1s{
+    position: relative;
+    width: 110px;
+    height: 120px;
+    background-image: url(mujer.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center;
+
+}
+.dossuno{
+    position: absolute;
+    bottom: 0;
+}
+.och{
+   position: absolute;
+   bottom: 0;
+   right: 5px;
+   font-size: 10px;
+}
+.textin{
+   position: absolute;
+   bottom: 30px;
+   font-size: 9px;
+   text-align: center;
+}
+.grand{
+   position: relative;
+   font-size: 12px;
+   text-align: center;
+}
+.wanted{
+   font-size: 35px;
+   text-align: center;
+}
+.serif{
+   font-size: 11px;
+   text-align: center;
+
+}
+.gris{
+   position: relative;
+   background: #a8a290;
+   width: 110px;
+   height: 50px;
+}
+.largo1{
+   position: relative;
+   font-size: 8px;
+   text-align: justify;
+}
+.titulo1{
+   position: relative;
+   font-size: 6px;
+}
+.largo2{
+   position: relative;
+   font-size: 8px;
+   text-align: justify;
+}
+.cuadroimagen2{
+background-image: url(foto1.png);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center;
+
+}
+.cuadroimagen1{
+   background-image: url(foto2.png);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-position: center;
+   
+}
+.cortext{
+   position: absolute;
+   font-size: 10px;
+
+}
+.cuadrito{
+   position: relative;
+   width: 50PX;
+   height: 60px;
+   font-size: 10px;
+   background: #000;
+   bottom: -100px;
+   right: -80px;
+}
